@@ -1,1 +1,1 @@
-# attendance_generator v1
+# attendance_generator v1.0
