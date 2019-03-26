@@ -1,6 +1,6 @@
 # attendance_generator v1.0
 
-It is one home work that use python libs to generate attendance reports of our department.
+It is one home work that uses python libs to generate attendance reports of our department.
 
 
 Used libs:
