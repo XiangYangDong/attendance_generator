@@ -4,7 +4,6 @@ It is one home work that use python libs to generate attendance reports of our d
 
 
 Used libs:
-
 --------------------------------------------
 
 pyodbc : fetch data from Access db.
